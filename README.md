@@ -21,7 +21,7 @@ Dataset: MovieLens 20M
 Source: https://grouplens.org/datasets/movielens/20m/
 
 
-Hints:
+Tasks:
 
 1. Read Movies.csv, Ratings.csv and Tags.csv. No need for genome-scores.csv, genome-tags.csv
 
